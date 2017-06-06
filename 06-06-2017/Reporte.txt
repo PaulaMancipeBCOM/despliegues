@@ -1,0 +1,7 @@
+GERSAFE II
+
+Despliegue 6 de Junio 2017
+
+En este despliegue se corrigen las siguientes no conformidades:
+	-Acceder a la información detallada de una motonave para su edición
+	-Guardar los cambios realizados en un servicio particular.
